@@ -3,6 +3,8 @@
 Real-time clothes printing experiment.<br>
 A cool simple solution for e-commerce fashion.
 <br>
+Simple HTML, CSS and Javascript solution.
+<br>
 <br>        
 <a href="https://houssemlachtar.github.io/Clothes-Printing/">
         <img alt="Thumbnail" src="Thumbnail.jpg" />
