@@ -1,6 +1,6 @@
 # Clothes-Printing
 <p align="center">
-Clothes real-time printing experiment.<br>
+Real-time clothes printing experiment.<br>
 A cool simple solution for e-commerce fashion.
 <br>
 <br>        
